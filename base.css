@@ -1,0 +1,45 @@
+body {
+  font-family: arial;
+  size: 12px;
+  color: black;
+  background-color: white;
+  text-align: center;
+  position: center;
+  background-image: url("http://www.wujinshike.com/data/wallpapers/110/WDF_1534401.jpg");
+
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: block;
+  color: black;
+}
+h2 {
+  color: black;
+  font-family: cursive;
+}
+
+h3{
+  font-family: times;
+  color: blue
+}
+This is a class
+#box{
+  font-family: times;
+  border: DASHED 2px black;
+  padding: 10px;
+  font-size: 12px;
+}
+This is a id
+.otherBox {
+  blackground-color: black
+  opacity: .4;
+  color: white;
+  overflow: scroll;
+  background-color: black
+  color: white
+}
