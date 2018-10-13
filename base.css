@@ -18,9 +18,10 @@ h1 {
   font-family: block;
   color: white;
 }
-h2 {
-  color: black;
-  font-family: cursive;
+h4 {
+  text-align: center;
+  position: center
+  color: white;
 }
 
 h3{
